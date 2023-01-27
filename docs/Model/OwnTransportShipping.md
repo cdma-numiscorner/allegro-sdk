@@ -1,0 +1,11 @@
+# # OwnTransportShipping
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**method** | **string** |  | [default to 'OWN_TRANSPORT']
+**truck_licence_plate** | **string** | The licence plate of the truck that will deliver the shipment. |
+**estimated_time_of_arrival** | [**\DateTime**](\DateTime.md) | The estimated date and time of Advance Ship Notice arrival in the warehouse. Provided in [ISO 8601 format](link: https://en.wikipedia.org/wiki/ISO_8601). |
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
